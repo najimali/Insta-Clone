@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "901357092986",
+    "firebase_url": "https://examplesofinsta.firebaseio.com",
+    "project_id": "examplesofinsta",
+    "storage_bucket": "examplesofinsta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901357092986:android:7db5153fe179966e",
+        "android_client_info": {
+          "package_name": "com.example.nazi.myproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901357092986-tabghdf0ltj94v1vhne2hukl4htq7lta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nazi.myproject",
+            "certificate_hash": "9e4dd4be7cff6ceae27efcc57a97c8de5ccbb4a0"
+          }
+        },
+        {
+          "client_id": "901357092986-bk7plk679596eoh09nj51t5fkeu621uo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPCs5_Im1DN19H5iEHW48BGDPvmGwt2kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901357092986-bk7plk679596eoh09nj51t5fkeu621uo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
