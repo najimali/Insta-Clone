@@ -116,7 +116,7 @@ public class EditProfileFragment extends Fragment implements
 
     private static final String TAG = "EditProfileFragment";
 
-    //firebase
+    //firebase 
     private FirebaseAuth mAuth;
     private FirebaseAuth.AuthStateListener mAuthListener;
     private FirebaseDatabase mFirebaseDatabase;
